@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kpatosarb
 - 👀 I’m interested in .Programming..
-- 🌱 I’m currently learning java,c++ and html...
+- 🌱 I’m currently learning java,c++,python,javascript and html...
 - 💞️ I’m looking to collaborate on my project...
-- 📫 How to reach me ..on my email.
+- 📫 How to reach me ..fostersarbeng@gmail.com.
 
 <!---
 Kpatosarb/Kpatosarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
