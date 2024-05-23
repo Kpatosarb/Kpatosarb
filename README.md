@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Kpatosarb
-- 👀 I’m interested in .Programming..
-- 🌱 I’m currently learning java,c++,python,javascript and html...
-- 💞️ I’m looking to collaborate on my project...
-- 📫 How to reach me ..fostersarbeng@gmail.com.
+- 👀 Software Engineer SMF Technologies
+- 🌱 Front End:HTML,JavaScript,CSSS,React
+- Front End: MongoDb
+- Database :Oracle, SQL
+- A.I : Teachable Machine, RapidMiner
+- 💞️ Java, C++
+- 📫 How to reach me ..LinkedIn: www.linkedin.com/in/sarbeng-manu-996830175, Email:fostersarbeng@gmail.com.
 
 <!---
 Kpatosarb/Kpatosarb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
